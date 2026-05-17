@@ -28,11 +28,11 @@ Analisei 10.395 livros do dataset público do Goodreads, cruzando quatro métric
 
 ## 📈 Gráficos gerados
 
-![Décadas](novo gráfico.png)
-![Avaliações por Década](novo gráfico(1).png)
-![Coeficientes do Modelo](novo gráfico (2)png)
-![Real vs Previsto](novo gráfico (3).png)
-![Nota vs Popularidade](novo gráfico (4).png)
+![Décadas](grafico5.png)
+![Avaliações por Década](grafico1.png)
+![Coeficientes do Modelo](grafico2.png)
+![Real vs Previsto](grafico3.png)
+![Nota vs Popularidade](grafico4.png)
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -51,4 +51,4 @@ O estudo completo com análise e conclusões está publicado no Medium:
 
 ## 📁 Arquivos
 
-- `Goodreads.ipynb` — notebook completo com todo o código
+- [`Goodreads.ipynb`](Goodreads.ipynb) — notebook completo com todo o código
